@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854023013997",
+    "project_id": "view-469b9",
+    "storage_bucket": "view-469b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854023013997:android:474506f52c7df084702164",
+        "android_client_info": {
+          "package_name": "com.richard.view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854023013997-rklamdu9qhvugelt1e4707ebj2osqvpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4ed8ZUht3HUl9OACv14mjQ0OKMVicRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854023013997-rklamdu9qhvugelt1e4707ebj2osqvpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
